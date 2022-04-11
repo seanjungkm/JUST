@@ -1,6 +1,3 @@
-upload anything
+README
 ---------------
-
-1.
-
-2.
+Just upload what i recorded
